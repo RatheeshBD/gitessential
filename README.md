@@ -1,2 +1,2 @@
-# gitessential
+
 # gitessential
